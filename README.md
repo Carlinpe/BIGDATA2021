@@ -1,18 +1,15 @@
-# **<center>Ing. De Software </center>**
-### Team Rocket
+# **<center>Big Data 2021-2 </center>**
 
 ### Datos Academicos
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
-  - **Proyecto: SISTEMA DE TUTORIA**
-
 
   #### Autores:
-  #### - Product - Owner :
-  - **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
-  #### - Desarrollador Back-End:
-  - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  #### - Docente:
+  - **_Carlos Fernando Montoya Cubas_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+  #### - Estudiante:
+  - **_Carlos Enrique Quispe Chambilla_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 
 ## Tabla de Contenido
 - [Capítulo I: Aspectos Generales](https://github.com/VkCarlin/TeamRocket)
