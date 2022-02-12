@@ -4,6 +4,7 @@
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
+  - **Curso:** Minería de Datos
 
   #### Autores:
   #### - Docente:
